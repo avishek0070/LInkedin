@@ -11,6 +11,11 @@ connection requests automatically.
 
    ```bash
    pip install -r requirements.txt
-   
+
+     python linkedin_automation.py
+
+
  ```bash
-  python linkedin_automation.py
+additionaly have .env file containing
+LINKEDIN_EMAIL=yourmailId.com
+LINKEDIN_PASSWORD=yourpassword
